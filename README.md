@@ -2,6 +2,8 @@
 Example about Dependency Injection using .NET 6.
 
 ####
-Add required packages:
+> dotnet new console -n Dependency_Injection --framework net6.0
+
 ####
-Microsoft.Extensions.DependencyInjection
+Add required packages:
+> dotnet add package Microsoft.Extensions.DependencyInjection
